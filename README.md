@@ -1,6 +1,13 @@
 # Skin-Cancer-Detection
+Dataset Link: https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign
 
-Hello from Poh :)
+# Dataset
 
-## TODO:
-- Data augmentation
+
+# Sample Images From Dataset
+
+
+# Data Augmentation
+
+
+# Implementation
